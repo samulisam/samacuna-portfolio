@@ -4,7 +4,7 @@ This is a code repository of a React.js based web app for my personal portfolio 
 ### Key Stacks
 1. Advance React
 2. SCSS
-3. Sanity
+3. Sanity IO (CRM)
 4. Framer Motion (most popular animation library)
 
 ### Screenshot
