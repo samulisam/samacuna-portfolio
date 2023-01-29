@@ -11,4 +11,4 @@ This is a code repository of a React.js based web app for my personal portfolio 
 ![image](https://github.com/zhenyu92/my_portfolio/blob/main/screenshot.PNG)
 
 ### Credits
-This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
+This project is adapted from a tutorial from [JavaScript Mastery](https://github.com/adrianhajdin).
