@@ -18,11 +18,7 @@ const About = () => {
 
   return (
     <>
-      <h2 className="head-text">
-        Continuous <span>Learning</span> is the Minimum
-        <br />
-        Requirement for <span>Success</span> in any Field
-      </h2>
+      
 
       <div className="app__profiles">
         {abouts.map((about, index) => (

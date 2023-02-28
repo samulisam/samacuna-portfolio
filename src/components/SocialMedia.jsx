@@ -5,13 +5,13 @@ const SocialMedia = () => (
   <div className="app__social">
 
     <div>
-      <a href="https://github.com/melkeno21" target="_blank" rel="noreferrer">
+      <a href="https://github.com" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
     </div>
 
     <div>
-      <a href="https://web.facebook.com/keno.rivera.77" target="_blank" rel="noreferrer">
+      <a href="https://web.facebook.com/profile.php?id=100010831184841" target="_blank" rel="noreferrer">
         <BsFacebook />
       </a>
     </div>
